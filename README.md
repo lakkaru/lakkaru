@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Lakshman Karunasena</h1>
-<h3 align="center">A enthusiastic full stack web developer from Sri Lanka.</h3>
+<h3 align="center">A enthusiastic web developer from Sri Lanka.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakkaru" alt="lakkaru" /></a> </p>
 
